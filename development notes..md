@@ -1,6 +1,6 @@
 # Development Notes
 
-## 2025-08-27
+## 2025-08-28
 | Category       | Notes |
 |----------------|-------|
 | Work completed |Connected ESP to pc|
